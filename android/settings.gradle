@@ -1,0 +1,3 @@
+rootProject.name = 'MyFastingApp'
+
+include ':app'
