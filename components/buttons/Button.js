@@ -13,6 +13,6 @@ const Button = ({submitTodo, buttonText}) => (
             </Text>
         </TouchableHighlight>
     </View>
-)
+);
 
 export default Button
