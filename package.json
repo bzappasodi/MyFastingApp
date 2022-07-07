@@ -7,10 +7,10 @@
     "test": "jest"
   },
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "16.8.3",
-    "react-native": "0.59.10",
-    "react-native-calendar-picker": "^6.0.1"
+    "react-native": "^0.66.0",
+    "react-native-calendar-picker": "^7.1.2"
   },
   "devDependencies": {
     "@babel/core": "7.4.5",
@@ -20,7 +20,7 @@
     "enzyme-adapter-react-16": "^1.14.0",
     "eslint": "^6.4.0",
     "jest": "24.8.0",
-    "metro-react-native-babel-preset": "0.54.1",
+    "metro-react-native-babel-preset": "^0.66.2",
     "react-test-renderer": "16.8.3"
   },
   "jest": {
