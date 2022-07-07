@@ -21,8 +21,8 @@ const Component = React.Component;
 let todoIndex = 0;
 
 class App extends Component {
-    constructor() {
-        super()
+    constructor(props) {
+        super(props)
         this.state = {
             inputValue: '',
             todos: [],
